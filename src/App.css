@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+#footerContent{
+  text-align: center;
+  background-color: peru;
+}
+.title{
+  text-align: center;
+  text-decoration: underline  #FF3028;
+}
